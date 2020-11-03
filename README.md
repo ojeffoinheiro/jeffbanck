@@ -4,7 +4,6 @@
 
 <div align="center">
 
-[![yarn](https://img.shields.io/badge/yarn-v1.22.4-725dba)](https://www.npmjs.com/package/yarn?activeTab=versions)<space><space>
 [![npm](https://img.shields.io/badge/node-v12.18.3-725dba)](https://www.npmjs.com/package/@unform/core)<space><space>
 </div>
   
