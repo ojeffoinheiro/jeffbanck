@@ -40,7 +40,7 @@ You should have:
 ## Clone this repository
 
 ```bash
-$ git clone https://github.com/ojeffoinheiro/Happy
+$ git clone https://github.com/ojeffoinheiro/jeffbanck
 ```
 
 ## Enter on source
