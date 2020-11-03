@@ -1,4 +1,4 @@
-# Nubank Clone
+<h1 align="center">Nubank Clone</h1>
 
 <div align="center">
 
