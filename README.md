@@ -7,6 +7,13 @@
 [![yarn](https://img.shields.io/badge/yarn-v1.22.4-725dba)](https://www.npmjs.com/package/yarn?activeTab=versions)<space><space>
 [![npm](https://img.shields.io/badge/node-v12.18.3-725dba)](https://www.npmjs.com/package/@unform/core)<space><space>
 </div>
+  
+<p align="center">
+  <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies-computer">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#how-to-use-fire">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute-gear">How to contribute</a>
+</p>
 
 # Overview :book:
  <p>
@@ -19,12 +26,6 @@ This project was developed with the following technologies:
 - [React Native](https://reactnative.dev)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [React Router](https://reactrouter.com/)
----
-
-
-# Notion Files :clipboard:
-
-- [Video](https://www.youtube.com/watch?v=DDm0M_rZLJo&ab_channel=Rocketseat) :rocket:
 ---
 
 # How to use :fire:
