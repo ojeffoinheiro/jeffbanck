@@ -1,9 +1,4 @@
-# jeffbanck
-Clonando interface do Nubank
-
-<h3 align="center">
-    Nubank Clone
-</h3>
+# Nubank Clone
 
 <div align="center">
 
