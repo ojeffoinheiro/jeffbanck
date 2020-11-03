@@ -1,4 +1,6 @@
-<h1 align="center">Nubank Clone</h1>
+<h1 align="center">
+  <img alt="Happy" title="JeffBanck" src="https://user-images.githubusercontent.com/60162736/97937609-eb31b700-1d5d-11eb-8c99-add4f4fbe64f.png">
+</h1>
 
 <div align="center">
 
